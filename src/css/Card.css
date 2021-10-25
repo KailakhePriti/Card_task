@@ -1,0 +1,23 @@
+.main_box{
+    display: flex;
+    width :1050px;
+    height: 330px;
+
+}
+.box{
+    width: 250px;
+    
+}
+.rupee_text1{
+    color:teal;
+    font-weight: bolder;
+    margin-right: 30px;
+}
+.rupee_text2{
+    color: tomato;
+    font-weight: bolder;
+  
+}
+.icon{
+    margin-left: 20px;
+}
